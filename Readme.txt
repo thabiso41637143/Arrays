@@ -1,0 +1,1 @@
+This program coveres the topic of arrays.
